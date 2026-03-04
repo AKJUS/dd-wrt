@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "svgtofont": "^3.18.0"
+    "svgtofont": "^6.5.1"
   },
   "scripts": {
     "generate": "svgtofont --sources ./svg --output ./dist --fontName zabbix-icons",
